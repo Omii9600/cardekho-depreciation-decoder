@@ -1,0 +1,6 @@
+# The dataset's licence should be checked before redistributing: do not commit the raw CSV
+data/*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
