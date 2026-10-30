@@ -216,7 +216,6 @@ pip install -r requirements.txt
 jupyter lab cardekho_depreciation_decoder.ipynb
 ```
 
-Run all cells; every chart is written to `images/`. On Kaggle, add the dataset as a notebook input and run all cells: the notebook finds the file under `/kaggle/input` automatically.
 
 ```
 ├── cardekho_depreciation_decoder.ipynb   # full analysis with saved outputs
